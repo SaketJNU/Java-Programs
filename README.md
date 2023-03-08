@@ -12,9 +12,9 @@ decimal places.
 8. Program to input 5 numbers from keyboard and find their sum and average.
 9. Program in Java to display the multiplication table of a given integer.
 10. Program in Java to display the pattern like right angle triangle with a number.
- Input number of rows : 5
- Expected Output :
  ```
+Input number of rows : 5
+Expected Output :
 1 
 12 
 123 
