@@ -1,6 +1,6 @@
 # Java-Programs
-## *Java code for fundamental programs for students*
-1. Program to read a number from the user and print whether it is positive or negative. 
+## *Java code for fundamental problems for students*
+1. Program to read a number from the user and print whether it is positive or negative. [PositiveNegative.java](https://github.com/SaketJNU/Java-Programs/blob/main/PositiveNegative.java)
 2. Program to solve quadratic equations (use if, else if and else). 
 3. Take three numbers from the user and print the greatest number.
 4. Program that keeps a number from the user and generates an integer between 1 and 7 and displays 
