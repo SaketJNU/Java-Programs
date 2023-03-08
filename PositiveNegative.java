@@ -21,5 +21,6 @@ public class PositiveNegative{
 }
 
 // Output:
-// Enter the number: -23
-// Entered number -23is a negative number
+// Enter the number: 
+// -23
+// Entered number -23 is a negative number
