@@ -5,8 +5,7 @@
 3. Take three numbers from the user and print the greatest number. [GreatestThree.java](https://github.com/SaketJNU/Java-Programs/blob/main/GreatestThree.java)
 4. Program that keeps a number from the user and generates an integer between 1 and 7 and displays 
 the name of the weekday. [Weekday.java](https://github.com/SaketJNU/Java-Programs/blob/main/Weekday.java)
-5. Program that reads in two floating-point numbers and tests whether they are the same up to three 
-decimal places.
+5. Program that reads in two floating-point numbers and tests whether they are the same up to three decimal places. [FloatingDigit.java](https://github.com/SaketJNU/Java-Programs/blob/main/FloatingDigit.java)
 6. Program that takes a year from user and print whether that year is a leap year or not.
 7. Program to display the first 10 natural numbers.    [FirstnNatural.java](https://github.com/SaketJNU/Java-Programs/blob/main/FirstnNatural.java)
 8. Program to input 5 numbers from keyboard and find their sum and average. [SumAverage.java](https://github.com/SaketJNU/Java-Programs/blob/main/SumAverage.java)

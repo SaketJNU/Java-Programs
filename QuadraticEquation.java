@@ -9,11 +9,12 @@ public class QuadraticEquation
 	{
 		Scanner reader = new Scanner(System.in);
 		System.out.print("\nEnter the coeffiect for quadratic term: ");
-		double a = reader.nextInt();
+		double a = reader.nextDouble();
 		System.out.print("\nEnter the coeffiect for linear term: ");
-		double b = reader.nextInt();
+		double b = reader.nextDouble();
 		System.out.print("\nEnter the constant term: ");
-		double c = reader.nextInt();
+		double c = reader.nextDouble();
+		reader.close();
 		double d = b*b - 4*a*c;
 
 		if (d > 0)
@@ -32,3 +33,10 @@ public class QuadraticEquation
 		}
 	}
 }
+//Output:
+//Enter the coeffiect for quadratic term: 1
+//
+//Enter the coeffiect for linear term: 2
+//
+//Enter the constant term: 1
+//Both roots are real and equal which is -1.0
