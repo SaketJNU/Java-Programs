@@ -1,7 +1,7 @@
 # Java-Programs
 ## *Java code for fundamental problems for students*
 1. Program to read a number from the user and print whether it is positive or negative. [PositiveNegative.java](https://github.com/SaketJNU/Java-Programs/blob/main/PositiveNegative.java)
-2. Program to solve quadratic equations (use if, else if and else). 
+2. Program to solve quadratic equations (use if, else if and else).  [QuadraticEquation.Java](https://github.com/SaketJNU/Java-Programs/blob/main/QuadaticEquation.java)
 3. Take three numbers from the user and print the greatest number. [GreatestThree.java](https://github.com/SaketJNU/Java-Programs/blob/main/GreatestThree.java)
 4. Program that keeps a number from the user and generates an integer between 1 and 7 and displays 
 the name of the weekday. [Weekday.java](https://github.com/SaketJNU/Java-Programs/blob/main/Weekday.java)
