@@ -4,7 +4,7 @@
 2. Program to solve quadratic equations (use if, else if and else). 
 3. Take three numbers from the user and print the greatest number. [GreatestThree.java](https://github.com/SaketJNU/Java-Programs/blob/main/GreatestThree.java)
 4. Program that keeps a number from the user and generates an integer between 1 and 7 and displays 
-the name of the weekday.
+the name of the weekday. [](https://github.com/SaketJNU/Java-Programs/blob/main/Weekday.java)
 5. Program that reads in two floating-point numbers and tests whether they are the same up to three 
 decimal places.
 6. Program that takes a year from user and print whether that year is a leap year or not.
