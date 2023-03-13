@@ -11,7 +11,7 @@ the name of the weekday. [Weekday.java](https://github.com/SaketJNU/Java-Program
 8. Program to input 5 numbers from keyboard and find their sum and average. [SumAverage.java](https://github.com/SaketJNU/Java-Programs/blob/main/SumAverage.java)
 9. Program in Java to display the multiplication table of a given integer. [MultiplicationTable.java](https://github.com/SaketJNU/Java-Programs/blob/main/MultiplicationTable.java)
 10. Program in Java to display the pattern like right angle triangle with a number. [PrintPattern.java](https://github.com/SaketJNU/Java-Programs/blob/main/PrintPattern.java)
- ```
+```
 Input number of rows : 5
 Expected Output :
 1 
@@ -20,3 +20,8 @@ Expected Output :
 1234 
 12345
 ```
+11. Program to compute the factorial of a given number. [Factorial.java](https://github.com/SaketJNU/Java-Programs/blob/main/Factorial.java)
+12. Program to compute the area of a circle for given radius.
+13. Program to check whether a given string is Palindrome or not.
+14. Program to print Fibonacciseries upto a given number.
+15. Program to revese the digit order for a given number. 
