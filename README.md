@@ -1,5 +1,5 @@
 # Java-Programs
-## *Java code for fundamental problems for students*
+## *Java code for fundamental problems for student*
 1. Program to read a number from the user and print whether it is positive or negative. [PositiveNegative.java](https://github.com/SaketJNU/Java-Programs/blob/main/PositiveNegative.java)
 2. Program to solve quadratic equations (use if, else if and else).  [QuadraticEquation.Java](https://github.com/SaketJNU/Java-Programs/blob/main/QuadaticEquation.java)
 3. Take three numbers from the user and print the greatest number. [GreatestThree.java](https://github.com/SaketJNU/Java-Programs/blob/main/GreatestThree.java)
@@ -23,5 +23,11 @@ Expected Output :
 11. Program to compute the factorial of a given number. [Factorial.java](https://github.com/SaketJNU/Java-Programs/blob/main/Factorial.java)
 12. Program to compute the area of a circle for given radius. [AreaCircle.java](https://github.com/SaketJNU/Java-Programs/blob/AreaCircle.java)
 13. Program to check whether a given string is Palindrome or not.
-14. Program to print Fibonacciseries upto a given number.
+14. Program to print Fibonacci series upto a given number.
 15. Program to revese the digit order for a given number. 
+16. Program to check wheter a given character is alphabet or not.
+17. Program to compute the Greatest Common Divisor (GCD) of given two numbers.
+18. Program to compute the Least Common Multiple (LCM) of given two numbers.
+19. Program to display all prime numbers in between two given numbers.
+20. Program to compute the compound interest.
+21. Program to compute the simple interest.
