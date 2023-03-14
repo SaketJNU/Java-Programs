@@ -13,19 +13,15 @@ public class Factorial
 	}
 	else if (num > 0)
 	{
-	     for( int i = 0; i < num ; i++)
+	     for( int i = 1; i <= num ; i++)
 	     {
-		fact = fact*num--;
+		fact = fact*i;
 	     }
-	     System.out.print("\nFactorial of " + num + " is " + fact);
+	     System.out.print("\nFactorial of the given number is " + fact);
 	}
 	else
 	{
-		System.out.print("\nYou have entered a wrong number");
+		System.out.print("\nEntered a wrong number");
 	}
-
     }
-
-
 }
-
