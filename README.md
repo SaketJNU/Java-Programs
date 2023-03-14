@@ -22,9 +22,9 @@ Expected Output :
 ```
 11. Program to compute the factorial of a given number. [Factorial.java](https://github.com/SaketJNU/Java-Programs/blob/main/Factorial.java)
 12. Program to compute the area of a circle for given radius. [AreaCircle.java](https://github.com/SaketJNU/Java-Programs/blob/AreaCircle.java)
-13. Program to check whether a given string is Palindrome or not.
+13. Program to check whether a given string is Palindrome or not. [Palindrome.java](https://github.com/SaketJNU/Java-Programs/blob/main/Palindorme.java)
 14. Program to print Fibonacci series upto a given number.
-15. Program to revese the digit order for a given number. 
+15. Program to revese the digit order for a given number. [ReverseOrder.java](https://github.com/SaketJNU/Java-Programs/blob/main/ReverseOrder.java)
 16. Program to check wheter a given character is alphabet or not.
 17. Program to compute the Greatest Common Divisor (GCD) of given two numbers.
 18. Program to compute the Least Common Multiple (LCM) of given two numbers.
