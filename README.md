@@ -58,12 +58,54 @@ void compare(String, String)
 1. Program for sorting a given list of names in ascending order.
 2. Program to multiply two given matrices.
 3. Program to find the maximum and minimum value in an array of size **m** passed as argument.
-4. Program to read and print an array of size **n** rows with variable column size. (Irregular Array).
+4. Program to read and print an array of size **n** rows with variable column size. (Hint: Irregular Array).
 5. Program that copies contents of one array to another using length member.
-6. Program to find element from an sorted array using binary searc. (java.util.package)
+6. Program to find element from an sorted array using binary searc. (Hint: java.util.package)
 7. Program to delete duplicate elements from an array of size 5.
 8. Program that reverses an array and stores it in the same array.
+9. Program to implement all String methods on a Input String.
+10. Program to convert a given integer array of size **n** into string.
+11. Program to read and print a given string using different methods.
+12. Program to reverse the words in a string.
+13. Program to read a string and replace all the vowels with a **$** symbol.
+14. Program to count the number of occurrences of a search string in a given text string.
+
 ### Module 4:
 
+1. Program to define a class Point with two fields **x** and **y** each of type double. also,  a method 
+distance(Point p1, Point p2) to calculate the distance between points p1 and p2 and return the value 
+in double. (Hint: use Math.sqrt( ) )
+2. Program for a class Shape is defined with two overloading constructors in it. Another class Test1 is partiallydefined which inherits the class Shape. The class Test1 should include two overloading constructors as appropriate for some object instantiation. You should define the constructors using the super class constructors. Also, override the method calculate() in Test1 to calculate the volume of a Shape.
+3. Program to create a class named 'Member' having the following members: Name, Age, Phone number, Address, Salary. It also has a method named **printSalary** which prints the salary of the members. Two classes **Employee** and **Manager** inherits the **Member** class. The **Employee** and **Manager'** classes have data members **specialization** and **department** respectively. Now, assign name, age, phone number, address and salary to an employee and a manager by making an object of both of these classes and print the same.
+4. Program to create a class named 'Shape' with a method to print **This is This is shape**. Then create two other classes named **Rectangle**, **Circle** inheriting the Shape class, both having a method to print **This i 
+rectangular shape** and **This is circular shape** respectively. Create a subclass **Square** of **Rectangle** 
+having a method to print **Square is a rectangle**. Now call the method of **Shape** and **Rectangle** clas 
+by the object of **Square** class.
+5. Program to create a class with a method that prints **This is parent class** and its subclass with another method that prints **This is child class**. Now, create an object for each of the class and call
+- method of parent class by object of parent class
+- method of child class by object of child class
+- method of parent class by object of child class
+6. Program to create a class telephone with ( ) , lift ( ) and disconnected ( ) methods as abstract methods create another class smart telephone and demonstrate polymorphism
+7. Program to design a vehicle class hierarchy in Java, and develop a program to demonstrate Polymorphism.
+8. Program to find the roots of a quadratic equation using interface and packages.
+- Declare an interface in package Quad1
+- Declare another package Quad2 and implement the interface
+9. Program to generate Fibonacci Series by using Constructor to initialize the Data Members.
+10. Program to demonstrate multiple inheritance through interface.
 
 ### Module 5:
+
+1. Program to demonstrate the visibility of members in subclasses of same and different packages.
+2. Program to create a user defined package in Java.
+3. Program to find the roots of a quadratic equation using interface and packages.
+- Declare an interface in package Quad1
+- Declare another package Quad2 and implement the interface
+4. Define a Interface Polygon in package pack1. create a class triangle from Polygon in package pack2, override method to calculate area of the triangle and raise an exception if it is an equilateral triangle. (Note : Exception has to be defined in package pack3.)
+5. Develop a program to demonstrate exception handling by using THROW, MULTIPLE CATCH & FINALLY statements.
+6. Create a class Student with attributes roll no, name, age and course. Initialize values through parameterized constructor. If age of student is not in between 15 and 21 then generate user defined exception **AgeNotWithinRangeException**. If name contains numbers or special symbols raise exception **NameNotValidException**. Define the two exception classes.
+7. Program to throw a user defined exception for employee details
+- If an employee name is a number, a name exception must be thrown.
+- If an employee age is greater than 50, an age exception must be thrown
+8. Program to demonstrate nested exception.
+9. Program to create an Account class with data members accno, name,bal. Include methods deposit(), withdraw(). Raise an exception when balance in account is less than 1000.
+10. Create a Student class with data members Rollno, Name, marks in subjects. Include methods to compute average. Raise an exception if the student has more than 2 backlogs.
