@@ -1,6 +1,7 @@
 # Java-Programs
 ## *Java code for fundamental problems for student*
 ### Module 1:
+
 1. Program to read a number from the user and print whether it is positive or negative. [PositiveNegative.java](https://github.com/SaketJNU/Java-Programs/blob/main/PositiveNegative.java)
 2. Program to solve quadratic equations (use if, else if and else).  [QuadraticEquation.Java](https://github.com/SaketJNU/Java-Programs/blob/main/QuadaticEquation.java)
 3. Take three numbers from the user and print the greatest number. [GreatestThree.java](https://github.com/SaketJNU/Java-Programs/blob/main/GreatestThree.java)
@@ -33,7 +34,36 @@ Expected Output :
 20. Program to compute the compound interest.
 21. Program to compute the simple interest.
 
-### Module 2
-### Module 3
-### Module 4
-### Module 5
+### Module 2:
+
+1. Program to read two numbers and perform the arithmetic operations using method.
+2. Program that performs arithmetic with values of type char.
+3. Design a class to overload a method compare() to return the greater of two as follows:
+```
+void compare(int, int)
+void compare(char, char)
+void compare(String, String)
+```
+4. Program that creates a class Account that stores a variable balance. The class has methods to start account, to deposit money, to withdraw money and tell the current balance amount.
+5. Program to implement a Book class that stores the details of a book such as its code, title and price (Use constructors to initialize the objects).
+6. Program to differentiate between static and non-static methods.
+7. Program to illustrate the usage of **this**, **final** and **finalize**.
+8. Program to implement the concept of dynamic method dispatch.
+9. Program to pass the variable length arguments.
+10. Program to show the overloading of constructures.
+11. Program to read the comman line arguments and print the total number of arguments and its values.
+
+### Module 3:
+
+1. Program for sorting a given list of names in ascending order.
+2. Program to multiply two given matrices.
+3. Program to find the maximum and minimum value in an array of size **m** passed as argument.
+4. Program to read and print an array of size **n** rows with variable column size. (Irregular Array).
+5. Program that copies contents of one array to another using length member.
+6. Program to find element from an sorted array using binary searc. (java.util.package)
+7. Program to delete duplicate elements from an array of size 5.
+8. Program that reverses an array and stores it in the same array.
+### Module 4:
+
+
+### Module 5:
