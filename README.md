@@ -23,9 +23,9 @@ Expected Output :
 12345
 ```
 11. Program to compute the factorial of a given number. [Factorial.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/Factorial.java)
-12. Program to compute the area of a circle for given radius. [AreaCircle.java](https://github.com/SaketJNU/Java-Programs/blob/module1/AreaCircle.java)
+12. Program to compute the area of a circle for given radius. [AreaCircle.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/AreaCircle.java)
 13. Program to check whether a given string is Palindrome or not. [Palindrome.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/Palindrome.java)
-14. Program to print Fibonacci series upto a given number.
+14. Program to print Fibonacci series upto a given number. [FibonacciSeries.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/FibonacciSeries.java)
 15. Program to revese the digit order for a given number. [ReverseOrder.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/ReverseOrder.java)
 16. Program to check wheter a given character is alphabet or not.
 17. Program to compute the Greatest Common Divisor (GCD) of given two numbers.
