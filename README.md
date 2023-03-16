@@ -30,7 +30,7 @@ Expected Output :
 16. Program to check wheter a given character is alphabet or not. [AlphabetCharacter.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/AlphabetCharacter.java)
 17. Program to compute the Greatest Common Divisor (GCD) of given two numbers.[GCD_2Num.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/GCD_2Num.java)
 18. Program to compute the Least Common Multiple (LCM) of given two numbers. [LCM2NUM.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/LCM2NUM.java)
-19. Program to display all prime numbers in between two given numbers.
+19. Program to display all prime numbers in between two given numbers. [AllPrime.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/AllPrime.java)
 20. Program to compute the compound interest.
 21. Program to compute the simple interest.
 
