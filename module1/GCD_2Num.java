@@ -1,4 +1,4 @@
-//Program to compute the GCD of twop given numbers
+//Program to compute the GCD of two given numbers
 import java.util.Scanner;
 public class GCD_2Num
 {
