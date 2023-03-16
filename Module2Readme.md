@@ -1,5 +1,10 @@
 ### Concept 1
-- Class
+- **Class** : contains **Data** and **Method**
+   ### Accessibality options
+   - public
+   - protected
+   - private
+   - default
 - Object
 - Instance
 ### Concept2: Features of OOPS
