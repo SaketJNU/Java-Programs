@@ -36,7 +36,7 @@ Expected Output :
 
 ### Module 2:
 
-1. Program to read two numbers and perform the arithmetic operations using method. [Add2Num.java](https://github.com/SaketJNU/Java-Programs/blob/main/Add2Num.java)
+1. Program to read two numbers and perform the arithmetic operations using method. [Add2Num.java](https://github.com/SaketJNU/Java-Programs/blob/main/Add2Num.java)  [SumMethod.java](https://github.com/SaketJNU/Java-Programs/blob/main/SumMethod.java)
 2. Program that performs arithmetic with values of type char.
 3. Design a class to overload a method compare() to return the greater of two as follows:
 ```
