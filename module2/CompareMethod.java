@@ -28,9 +28,9 @@ public class CompareMethod
 
 		System.out.print("\n\nEnter two Strings: ");
 		System.out.print("\nFirst: ");
-		String s1 = reader.nextLine();
+		String s1 = reader.next();
 		System.out.print("\nSecond: ");
-		String s2 = reader.nextLine();
+		String s2 = reader.next();
 		mo.compare(s1, s2);
 	}
 }
