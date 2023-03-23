@@ -41,7 +41,7 @@ class MethodOverloaded
   {
   	if (x > y)
   	{
-  		System.out.print("\nFirst number is grater.");
+  		System.out.print("\nFirst number is greater.");
   	}
   	else
   	{
@@ -52,10 +52,10 @@ class MethodOverloaded
   public void compare(char ch1, char ch2)
   {
   	int x = (int) ch1;
-  	int y = (char) ch2;
+  	int y = (int) ch2;
   	 if (x > y)
   	{
-  		System.out.print("\nFirst character is grater.");
+  		System.out.print("\nFirst character is greater.");
   	}
   	else
   	{
@@ -67,7 +67,7 @@ class MethodOverloaded
   {
   	if(str1.compareTo(str2) > 0)
   	{
-  		System.out.print("\nFirst String is grater.");
+  		System.out.print("\nFirst String is greater.");
   	}
   	else
   	{
