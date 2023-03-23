@@ -38,7 +38,7 @@ Expected Output :
 
 1. Program to read two numbers and perform the arithmetic operations using method. [Add2Num.java](https://github.com/SaketJNU/Java-Programs/blob/main/module2/Add2Num.java)  [SumMethod.java](https://github.com/SaketJNU/Java-Programs/blob/main/module2/SumMethod.java)
 2. Program that performs arithmetic with values of type char. [AddCharacter.java](https://github.com/SaketJNU/Java-Programs/blob/main/module2/AddCharacter.java)
-3. Design a class to overload a method compare() to return the greater of two as follows:
+3. Design a class to overload a method compare() to return the greater of two as follows: [CompareMethod.java](https://github.com/SaketJNU/Java-Programs/blob/main/module2/CompareMethod.java)
 ```
 void compare(int, int)
 void compare(char, char)
