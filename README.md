@@ -31,8 +31,8 @@ Expected Output :
 17. Program to compute the Greatest Common Divisor (GCD) of given two numbers.[GCD_2Num.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/GCD_2Num.java)
 18. Program to compute the Least Common Multiple (LCM) of given two numbers. [LCM2NUM.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/LCM2NUM.java)
 19. Program to display all prime numbers in between two given numbers. [AllPrime.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/AllPrime.java)
-20. Program to compute the compound interest.
-21. Program to compute the simple interest.
+20. Program to compute the compound interest. [CompoundInterest.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/CompoundInterest.java)
+21. Program to compute the simple interest. [SimpleInterest.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/SimpleInterest.java)
 
 ### Module 2:
 
