@@ -31,14 +31,14 @@ Expected Output :
 17. Program to compute the Greatest Common Divisor (GCD) of given two numbers.[GCD_2Num.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/GCD_2Num.java)
 18. Program to compute the Least Common Multiple (LCM) of given two numbers. [LCM2NUM.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/LCM2NUM.java)
 19. Program to display all prime numbers in between two given numbers. [AllPrime.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/AllPrime.java)
-20. Program to compute the compound interest.
-21. Program to compute the simple interest.
+20. Program to compute the compound interest. [CompoundInterest.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/CompoundInterest.java)
+21. Program to compute the simple interest. [SimpleInterest.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/SimpleInterest.java)
 
 ### Module 2:
 
-1. Program to read two numbers and perform the arithmetic operations using method.
-2. Program that performs arithmetic with values of type char.
-3. Design a class to overload a method compare() to return the greater of two as follows:
+1. Program to read two numbers and perform the arithmetic operations using method. [Add2Num.java](https://github.com/SaketJNU/Java-Programs/blob/main/module2/Add2Num.java)  [SumMethod.java](https://github.com/SaketJNU/Java-Programs/blob/main/module2/SumMethod.java)
+2. Program that performs arithmetic with values of type char. [AddCharacter.java](https://github.com/SaketJNU/Java-Programs/blob/main/module2/AddCharacter.java)
+3. Design a class to overload a method compare() to return the greater of two as follows: [CompareMethod.java](https://github.com/SaketJNU/Java-Programs/blob/main/module2/CompareMethod.java)
 ```
 void compare(int, int)
 void compare(char, char)
@@ -49,20 +49,20 @@ void compare(String, String)
 6. Program to differentiate between static and non-static methods.
 7. Program to illustrate the usage of **this**, **final** and **finalize**.
 8. Program to implement the concept of dynamic method dispatch.
-9. Program to pass the variable length arguments.
+9. Program to pass the variable length arguments. [VariableLenArgu.java](https://github.com/SaketJNU/Java-Programs/blob/main/module2/VariableLenArgu.java)
 10. Program to show the overloading of constructures.
-11. Program to read the comman line arguments and print the total number of arguments and its values.
+11. Program to read the comman line arguments and print the total number of arguments and its values. [CommandLineAgu.java](https://github.com/SaketJNU/Java-Programs/blob/main/module2/CommandLineAgu.java)
 
 ### Module 3:
 
-1. Program for sorting a given list of names in ascending order.
+1. Program for sorting a given list of names in ascending order.  [ListSorting.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/ListSorting.java)
 2. Program to multiply two given matrices.
-3. Program to find the maximum and minimum value in an array of size **m** passed as argument.
+3. Program to find the maximum and minimum value in an array of size **m** passed as argument. [ArrayMinMax.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/ArrayMinMax.java)
 4. Program to read and print an array of size **n** rows with variable column size. (Hint: Irregular Array).
-5. Program that copies contents of one array to another using length member.
-6. Program to find element from an sorted array using binary searc. (Hint: java.util.package)
-7. Program to delete duplicate elements from an array of size 5.
-8. Program that reverses an array and stores it in the same array.
+5. Program that copies contents of one array to another using length member.   [CopyArray.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/CopyArray.java)
+6. Program to find element from an sorted array using binary search. (Hint: java.util.package)
+7. Program to delete duplicate elements from an array of size 5.  [RemoveDuplicate.java](https://github.com/SaketJNU/JavaPrograms/blob/main/module3/RemoveDuplicate.java)
+8. Program that reverses an array and stores it in the same array. [ReverseArray.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/ReverseArray.java)
 9. Program to implement all String methods on a Input String.
 10. Program to convert a given integer array of size **n** into string.
 11. Program to read and print a given string using different methods.
