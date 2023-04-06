@@ -60,7 +60,7 @@ void compare(String, String)
 3. Program to find the maximum and minimum value in an array of size **m** passed as argument. [ArrayMinMax.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/ArrayMinMax.java)
 4. Program to read and print an array of size **n** rows with variable column size. (Hint: Irregular Array).
 5. Program that copies contents of one array to another using length member.   [CopyArray.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/CopyArray.java)
-6. Program to find element from an sorted array using binary search. (Hint: java.util.package)
+6. Program to find element from an sorted array using binary search. (Hint: java.util.package) [BinarySearch.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/BinarySearch.java)
 7. Program to delete duplicate elements from an array of size 5.                           [RemoveDuplicate.java](https://github.com/SaketJNU/JavaPrograms/blob/main/module3/RemoveDuplicate.java)
 8. Program that reverses an array and stores it in the same array. [ReverseArray.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/ReverseArray.java)
 9. Program to implement all String methods on a Input String.  [StringOperations.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/StringOperations.java)
