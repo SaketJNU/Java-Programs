@@ -63,7 +63,7 @@ void compare(String, String)
 6. Program to find element from an sorted array using binary search. (Hint: java.util.package)
 7. Program to delete duplicate elements from an array of size 5.                           [RemoveDuplicate.java](https://github.com/SaketJNU/JavaPrograms/blob/main/module3/RemoveDuplicate.java)
 8. Program that reverses an array and stores it in the same array. [ReverseArray.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/ReverseArray.java)
-9. Program to implement all String methods on a Input String.
+9. Program to implement all String methods on a Input String.  [StringOperations.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/StringOperations.java)
 10. Program to convert a given integer array of size **n** into string.
 11. Program to read and print a given string using different methods.
 12. Program to reverse the words in a string.
