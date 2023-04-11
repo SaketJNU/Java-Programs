@@ -58,7 +58,7 @@ void compare(String, String)
 1. Program for sorting a given list of names in ascending order.  [ListSorting.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/ListSorting.java)
 2. Program to multiply two given matrices. [MatrixMultiplication.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/MatrixMultiplication.java)
 3. Program to find the maximum and minimum value in an array of size **m** passed as argument. [ArrayMinMax.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/ArrayMinMax.java)
-4. Program to read and print an array of size **n** rows with variable column size. (Hint: Irregular Array).
+4. Program to read and print an array of size **n** rows with variable column size. (Hint: Irregular Array). [IrregularArray.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/IrregularArray.java)
 5. Program that copies contents of one array to another using length member.   [CopyArray.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/CopyArray.java)
 6. Program to find element from an sorted array using binary search. (Hint: java.util.package) [BinarySearch.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/BinarySearch.java)
 7. Program to delete duplicate elements from an array of size 5.                           [RemoveDuplicate.java](https://github.com/SaketJNU/JavaPrograms/blob/main/module3/RemoveDuplicate.java)
