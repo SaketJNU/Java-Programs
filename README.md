@@ -68,7 +68,7 @@ void compare(String, String)
 11. Program to read and print a given string using different methods. [ReadStringMethod.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/ReadStringMethod.java)
 12. Program to reverse the words in a string. [ReverseString.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/ReverseString.java)
 13. Program to read a string and replace all the vowels with a **@** symbol. [ReplaceVowels.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/ReplaceVowels.java)
-14. Program to count the number of occurrences of a search string in a given text string.
+14. Program to count the number of occurrences of a search string in a given text string. [SubStringCount.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/SubStringCount.java)
 
 ### Module 4:
 
