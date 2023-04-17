@@ -67,7 +67,7 @@ void compare(String, String)
 10. Program to convert a given integer array of size **n** into string. [Integer2String.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/Integer2String.java)
 11. Program to read and print a given string using different methods. [ReadStringMethod.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/ReadStringMethod.java)
 12. Program to reverse the words in a string. [ReverseString.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/ReverseString.java)
-13. Program to read a string and replace all the vowels with a **$** symbol.
+13. Program to read a string and replace all the vowels with a **@** symbol. [ReplaceVowels.java](https://github.com/SaketJNU/Java-Programs/blob/main/module3/ReplaceVowels.java)
 14. Program to count the number of occurrences of a search string in a given text string.
 
 ### Module 4:
