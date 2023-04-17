@@ -46,7 +46,7 @@ void compare(String, String)
 ```
 4. Program that creates a class Account that stores a variable balance. The class has methods to start account, to deposit money, to withdraw money and tell the current balance amount.
 5. Program to implement a Book class that stores the details of a book such as its code, title and price (Use constructors to initialize the objects).
-6. Program to differentiate between static and non-static methods.
+6. Program to differentiate between static and non-static methods. [StaticVsNonStaticMethod.java](https://github.com/SaketJNU/Java-Programs/blob/main/module2/StaticVsNonStaticMethod.java)
 7. Program to illustrate the usage of **this**, **final** and **finalize**.
 8. Program to implement the concept of dynamic method dispatch.
 9. Program to pass the variable length arguments. [VariableLenArgu.java](https://github.com/SaketJNU/Java-Programs/blob/main/module2/VariableLenArgu.java)
