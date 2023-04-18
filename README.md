@@ -84,7 +84,7 @@ by the object of **Square** class.
 - method of child class by object of child class
 - method of parent class by object of child class
 6. Program to create a class telephone with ( ) , lift ( ) and disconnected ( ) methods as abstract methods create another class smart telephone and demonstrate polymorphism
-7. Program to design a vehicle class hierarchy in Java, and develop a program to demonstrate Polymorphism.
+7. Program to design a vehicle class hierarchy in Java, and develop a program to demonstrate Polymorphism. [PolymorphismProgram.java](https://github.com/SaketJNU/Java-Programs/blob/main/module4/PolymorphismProgram.java)
 8. Program to find the roots of a quadratic equation using interface and packages.
 - Declare an interface in package Quad1
 - Declare another package Quad2 and implement the interface
