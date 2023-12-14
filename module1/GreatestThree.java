@@ -14,6 +14,7 @@ public class GreatestThree
 		int n2 = reader.nextInt();
 		System.out.println("3rd Number =  ");
 		int n3 = reader.nextInt();
+		reader.close();
 		if (n1 > n2)
 		{
 			if (n1 > n3)
