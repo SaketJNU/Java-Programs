@@ -12,11 +12,11 @@ public class EvenOdd
          reader.close();
          if( num%2 == 0)
 	   {
-             System.out.print("\nEntered number " + num + " is an Even number.");
+        System.out.print("\nEntered number " + num + " is an Even number.");
            }
          else
 	   {
-             System.out.print("\nEntered number " + num + " is an Odd number.");           
+         System.out.print("\nEntered number " + num + " is an Odd number.");           
            }    
      }
 }
