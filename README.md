@@ -34,6 +34,7 @@ Expected Output :
 20. Program to compute the compound interest. [CompoundInterest.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/CompoundInterest.java)
 21. Program to compute the simple interest. [SimpleInterest.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/SimpleInterest.java)
 22. Program to check wheter a given number is an even or an odd number. [EvenOdd.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/EvenOdd.java)
+23. Program to swap two numbers. [SwapTwo.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/SwapTwo.java)
 ### Module 2:
 
 1. Program to read two numbers and perform the arithmetic operations using method. [Add2Num.java](https://github.com/SaketJNU/Java-Programs/blob/main/module2/Add2Num.java)  [SumMethod.java](https://github.com/SaketJNU/Java-Programs/blob/main/module2/SumMethod.java)
