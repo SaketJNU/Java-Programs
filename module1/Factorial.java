@@ -17,7 +17,7 @@ public class Factorial
 	     {
 		fact = fact*i;
 	     }
-	     System.out.print("\nFactorial of the given number is " + fact);git
+	     System.out.print("\nFactorial of the given number is " + fact);
 	}
 	else
 	{
