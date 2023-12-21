@@ -8,16 +8,18 @@ class SimpleInterest
 		Interest interest = new Interest();
 		interest.input_values();
 		interest.show_interest();
+		System.out.print("\nInterest gained is "+ interest.interest);
 	}
 }
 
-class Interest
+class Interest                  // Class decleartion and definition
 {
-	double amount, rate, time, interest;
+	double amount, rate, time;   // Private instance Variable
+	public double interest;      // Public instance variable
 	
 	public void input_values()
 	{
-  		Scanner reader = new Scanner(System.in);
+  		Scanner reader = new Scanner(System.in);  // Local Variable (Object)
   		System.out.print("\nEnter the principal amount = ");
   		amount = reader.nextDouble();
   		System.out.print("\nEnter the interest rate = ");
