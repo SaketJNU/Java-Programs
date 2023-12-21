@@ -1,5 +1,5 @@
 /* 
- Program to check wheter a given number is positive or negative using ternary operator [expression ? true option : false option]
+ Program to check wheter a given number is positive or negative using ternary operator        [expression ? true option : false option]
  Multi line comment */
 
 // This is a single line comment
@@ -17,7 +17,7 @@ public class Positive
         System.out.print("\nEnter a number: ");
 	Scanner reader = new Scanner(System.in);
 	int num = reader.nextInt();
-	String result = num > 0 ? "Positive number" : "Negative number";
+	String result = num > 0 ? "Positive number" : "Negative number"; // Ternary operator
 	System.out.print("Entered number is a " + result );
      }
 }
