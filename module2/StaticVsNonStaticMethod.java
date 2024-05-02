@@ -38,6 +38,12 @@ class StaticVsNonStaticMethod
 		ob2.increaseCount();
 		ob2.increaseCount();
 		ob2.increaseCount();
-		ob2.printCount(); 
+		ob2.printCount();
+		StaticNonStaticMethod ob3 = new StaticNonStaticMethod();
+		StaticNonStaticMethod.objectCount();
+		StaticNonStaticMethod ob4 = new StaticNonStaticMethod();
+		StaticNonStaticMethod.objectCount();
+		ob4.printCount();
+
 	}
 }

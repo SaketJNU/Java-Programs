@@ -8,7 +8,7 @@ class ReplaceVowels
 		System.out.print("Enter a string: ");
 		String str= sc.nextLine(); //reads string
 		System.out.print("The string after replacing vowels: ");
-		str = str.replaceAll("[aeiouAEIOU]", "@");  // Replace Vowels by $
+		str = str.replaceAll("[a-zA-Z]", "@");  // Replace Vowels by $
 		System.out.println(str);
 	}
 }

@@ -16,7 +16,7 @@ class VariableLenArgu
 
 class VariableArgu
 {
-	void print_arguments(String... str)
+	void print_arguments(String... str)// Method Accepting Variable Length Aruguments
 	{
 		for(String s:str)
 			{
