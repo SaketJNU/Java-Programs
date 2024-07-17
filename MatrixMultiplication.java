@@ -1,4 +1,4 @@
-//Program to multiply two given matrices.
+//Program for the multiplication of two given matrices.
 import java.util.Scanner;
 
 public class MatrixMultiplication
