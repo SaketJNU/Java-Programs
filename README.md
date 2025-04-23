@@ -8,7 +8,7 @@
 4. Program that keeps a number from the user and generates an integer between 1 and 7 and displays 
 the name of the weekday. [Weekday.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/Weekday.java)
 5. Program that reads in two floating-point numbers and tests whether they are the same up to three decimal places. [FloatingDigit.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/FloatingDigit.java)
-6. Program that takes a year from user and print whether that year is a leap year or not. [LeapYear.java](https://github.com/SaketJNU/Java-Programs/blob/master/module1/LeapYear.java)
+6. Program that takes a year from user and print whether that year is a leap year or not. [LeapYear.java](https://github.com/SaketJNU/Java-Programs/blob/master/module1/LeapYear.java) [LeapYear1.java](https://github.com/SaketJNU/Java-Programs/blob/main/LeapYear1.java)
 7. Program to display the first 10 natural numbers.    [FirstnNatural.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/FirstnNatural.java)
 8. Program to input 5 numbers from keyboard and find their sum and average. [SumAverage.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/SumAverage.java)
 9. Program in Java to display the multiplication table of a given integer. [MultiplicationTable.java](https://github.com/SaketJNU/Java-Programs/blob/main/module1/MultiplicationTable.java)
