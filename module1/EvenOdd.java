@@ -17,6 +17,7 @@ public class EvenOdd
          else
 	   {
          System.out.print("\nEntered number " + num + " is an Odd number.");           
-           }    
+           }
      }
 }
+
