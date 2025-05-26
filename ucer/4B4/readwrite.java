@@ -11,7 +11,8 @@ class readwrite {
                  new FileReader("hello.txt"))) {
             String text;
             while ((text = br.readLine()) != null) {
-                byte arr[] = text.getBytes();
+       		System.out.println(text);
+		    byte arr[] = text.getBytes();
                 f.write(arr);
           }
 
