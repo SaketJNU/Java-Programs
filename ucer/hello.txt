@@ -1,0 +1,3 @@
+This is a Java Programming Lab.
+We are learning file reading and writing.
+We are applying try-with-resource method.
